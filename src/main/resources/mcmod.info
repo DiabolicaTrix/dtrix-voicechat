@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dtrix-voicechat",
+  "name": "DTrix's Voice Chat",
+  "description": "A voice chat mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DiabolicaTrix"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
